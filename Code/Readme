@@ -22,3 +22,8 @@ Overview:
 =====
 Please also find the details instructions in the comments of the individual files.
 
+=====
+Marco's notes:
+    I don't think we need all the files currently in here for submission. 
+    Probably don't actually need matrixgen.c, serialtester.c, or the Readme
+
